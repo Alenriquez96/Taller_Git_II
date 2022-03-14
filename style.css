@@ -1,0 +1,22 @@
+body{
+    background-color: aliceblue;
+}
+
+h1{
+    text-align: center;
+    margin-top: 1.5rem;
+    font-size: 4.5rem;
+}
+
+form{
+    text-align: center;
+    display: flex;
+    flex-direction: column;
+    width: 20%;
+    margin: 0 auto;
+    gap: 1rem;
+}
+
+.button:hover{
+    cursor: pointer;
+}
